@@ -64,11 +64,11 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "daniel.espada@nao.ac.jp"
   address = " Japan"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
+  office_hours = "Monday - Friday, 8:30 to 17:15 or email for appointment"
+  phone = "+81 422 34 3900, ext. 3198"
   skype = "despada"
   telegram = "despada"
-  keybase = ""  # Your keybase.io username.
+  # keybase = ""  # Your keybase.io username.
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
