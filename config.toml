@@ -59,7 +59,7 @@ enableGitInfo = false
   organizations = [ { name = "National Astronomical Observatory of Japan", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "Screen Shot 2018-11-16 at 11.19.27 PM.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "daniel.espada@nao.ac.jp"
