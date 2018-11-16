@@ -45,8 +45,8 @@ filter_default = 0
 #   tag = "Deep Learning"
 #
 # [[filter]]
-#   name = "Other"
-#   tag = "Demo"
+#   name = "Galaxy Evolution"
+#   tag = "Galaxy Evolution"
 
 +++
 
