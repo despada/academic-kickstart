@@ -85,7 +85,7 @@ enableGitInfo = false
   # To get your coordinates, right-click on 
   
   
-  Maps and choose "What's here?". The coords will show up at the bottom.
+  # Maps and choose "What's here?". The coords will show up at the bottom.
   #
   # Map provider:
   #   0: No map
