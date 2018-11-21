@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://alma-intweb.mtk.nao.ac.jp/~despada/"
 
 # Title of your site
 title = "Daniel Espada : Researcher"
@@ -82,9 +82,9 @@ enableGitInfo = false
   # To use OpenStreetMap tiles, set `map = 2`.
   # To use OpenStreetMap on a high traffic site, set `map = 3` and enter your API key that can be obtained here:
   #   https://www.mapbox.com/studio/account/tokens
-  # To get your coordinates, right-click on 
-  
-  
+  # To get your coordinates, right-click on
+
+
   # Maps and choose "What's here?". The coords will show up at the bottom.
   #
   # Map provider:
